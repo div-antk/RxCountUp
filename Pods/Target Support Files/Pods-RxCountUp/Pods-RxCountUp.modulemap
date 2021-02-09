@@ -1,0 +1,6 @@
+framework module Pods_RxCountUp {
+  umbrella header "Pods-RxCountUp-umbrella.h"
+
+  export *
+  module * { export * }
+}
